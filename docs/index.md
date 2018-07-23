@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is an script implementation in php for generating Docx and PDF based on dynamic HTML content.
+This is a PHP script implementated in php for generating Docx and PDF based on dynamic HTML content.
 
 # Installtion
 
