@@ -18,8 +18,11 @@ $this->siteUrl = 'http://localhost/resumebuilder/';
 # Usages
 
 - Access http://localhost/resumebuilder  in Browser.
-- OR Call it using fronend ajax call and it will return path of generated files ( However it's POC, we need to send dynamic form values to script and choose HTML template and it will convert that to docx and pdf. ) 
+- ( However it's POC, we need to send dynamic form values to script and choose HTML template and it will convert that to docx and pdf. ) 
 
+# HTML Templates
+
+- Add ".html" template files in templates folder. They will be availble in homepage templates list.
 
 # Response ( Generated PDF File and Docx File Full Path ) 
 
