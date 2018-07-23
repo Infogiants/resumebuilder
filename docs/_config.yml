@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Resume Builder WebApp
+description: A ResumeBuilder Script Written In PHP, It Generates PDF and Docx from html template.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
