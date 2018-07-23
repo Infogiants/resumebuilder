@@ -1,0 +1,27 @@
+{
+    "name": "api",
+    "description": "Docx and pdf generation api",
+    "type": "project",
+    "version": "1.0.0",
+    "license": [
+        "opensource"
+    ],
+    "require": {
+        "mpdf/mpdf": "7.1.0",
+        "lpkapil/phpdocx": "1.0.0"
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "lpkapil/phpdocx",
+                "version": "1.0.0",
+                "source": {
+                    "url": "https://github.com/lpkapil/phpdocx.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        }
+    ]
+}
