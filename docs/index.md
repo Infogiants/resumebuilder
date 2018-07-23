@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Resume Builder ( HTML to Docx and PDF Generation Script )
-
 This is an script implementation in php for generating Docx and PDF based on dynamic HTML content.
 
 # Installtion
