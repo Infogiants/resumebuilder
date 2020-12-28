@@ -43,7 +43,6 @@ $this->siteUrl = 'http://localhost/resumebuilder/';
 3. mpdf ( included using composer )
 4. phpdocx ( included using composer )
 
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
+## Donate and Support
 
-[![Beerpay](https://beerpay.io/lpkapil/resumebuilder/badge.svg?style=beer-square)](https://beerpay.io/lpkapil/resumebuilder)  [![Beerpay](https://beerpay.io/lpkapil/resumebuilder/make-wish.svg?style=flat-square)](https://beerpay.io/lpkapil/resumebuilder?focus=wish)
+<div class='pm-button'><a href='https://www.payumoney.com/paybypayumoney/#/3FF0BB83F2A6D7DD27A53BC12E4AE109' target="_blank"><img src='https://www.payumoney.com/media/images/payby_payumoney/new_buttons/21.png' /></a></div> 
