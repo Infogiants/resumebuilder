@@ -31,7 +31,7 @@ $this->siteUrl = 'http://localhost/resumebuilder/';
 ```
 # Dependencies
 
-1. PHP Server ( v7.1 )
+1. PHP Server ( v7.4.x )
 2. PHP Extensions required 
 
 - PHP Zip 
