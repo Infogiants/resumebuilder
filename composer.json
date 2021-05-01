@@ -7,7 +7,7 @@
         "opensource"
     ],
     "require": {
-        "mpdf/mpdf": "7.1.0",
+        "mpdf/mpdf": "8.0.10",
         "lpkapil/phpdocx": "1.0.0"
     },
     "repositories": [
